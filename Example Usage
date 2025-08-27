@@ -1,0 +1,18 @@
+------Welcome to the To-Do list Application------
+Enter the number of tasks you want to add: 3
+Enter task 1: Study
+Enter task 2: Exercise
+Enter task 3: Read
+
+You have today added 3 tasks to your To-Do list
+Today tasks are
+['Study', 'Exercise', 'Read']
+
+Enter 1-Add
+2-Update
+3-Delete
+4-View
+5-Exit/Stop
+Choose your operation: 4
+Your current tasks are:
+['Study', 'Exercise', 'Read']
